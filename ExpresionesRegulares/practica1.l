@@ -1,5 +1,3 @@
-#Trabajo 1.
-
 %{
 #include <stdio.h>
 %}
